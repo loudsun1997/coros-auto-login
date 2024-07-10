@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "COROS Auto Terms Checkbox Checker",
+	"version": "1.1",
+	"permissions": ["activeTab", "storage"],
+	"action": {
+	  "default_popup": "popup.html",
+	  "default_icon": "icons/icon128.png"
+	},
+	"background": {
+	  "service_worker": "background.js"
+	},
+	"content_scripts": [
+	  {
+		"matches": ["https://training.coros.com/*"],
+		"js": ["content.js"]
+	  }
+	]
+  }
+  
