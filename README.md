@@ -34,6 +34,13 @@ This Chrome extension automatically checks the terms and conditions checkbox on 
 - `popup.js`: The JavaScript file for the extension's popup, handling the auto login toggle.
 - `icons/`: Directory containing the extension icon in different sizes.
 
+## Support the Project
+
+To publish this extension on the Chrome Web Store, I need to get verified, which requires a $5 fee. If you find this extension useful and would like to support its development and availability on the Chrome Web Store, please consider making a small donation. Your support is greatly appreciated!
+
+**Total needed: $5**
+[Donate via PayPal](https://www.paypal.com/paypalme/payhenrypay)
+
 ## Contributing
 
 If you have suggestions for improving this extension or find any issues, please open an issue or submit a pull request.
@@ -41,3 +48,5 @@ If you have suggestions for improving this extension or find any issues, please 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
